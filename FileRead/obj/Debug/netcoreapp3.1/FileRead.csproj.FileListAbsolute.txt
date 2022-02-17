@@ -1,0 +1,13 @@
+D:\Sadika.net\FileRead\obj\Debug\netcoreapp3.1\FileRead.csprojAssemblyReference.cache
+D:\Sadika.net\FileRead\obj\Debug\netcoreapp3.1\FileRead.AssemblyInfoInputs.cache
+D:\Sadika.net\FileRead\obj\Debug\netcoreapp3.1\FileRead.AssemblyInfo.cs
+D:\Sadika.net\FileRead\obj\Debug\netcoreapp3.1\FileRead.csproj.CoreCompileInputs.cache
+D:\Sadika.net\FileRead\bin\Debug\netcoreapp3.1\FileRead.exe
+D:\Sadika.net\FileRead\bin\Debug\netcoreapp3.1\FileRead.deps.json
+D:\Sadika.net\FileRead\bin\Debug\netcoreapp3.1\FileRead.runtimeconfig.json
+D:\Sadika.net\FileRead\bin\Debug\netcoreapp3.1\FileRead.runtimeconfig.dev.json
+D:\Sadika.net\FileRead\bin\Debug\netcoreapp3.1\FileRead.dll
+D:\Sadika.net\FileRead\bin\Debug\netcoreapp3.1\FileRead.pdb
+D:\Sadika.net\FileRead\obj\Debug\netcoreapp3.1\FileRead.dll
+D:\Sadika.net\FileRead\obj\Debug\netcoreapp3.1\FileRead.pdb
+D:\Sadika.net\FileRead\obj\Debug\netcoreapp3.1\FileRead.genruntimeconfig.cache
