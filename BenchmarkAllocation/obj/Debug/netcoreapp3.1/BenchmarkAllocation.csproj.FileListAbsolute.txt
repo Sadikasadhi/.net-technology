@@ -1,0 +1,12 @@
+D:\Sadika.net\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.AssemblyInfoInputs.cache
+D:\Sadika.net\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.AssemblyInfo.cs
+D:\Sadika.net\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.csproj.CoreCompileInputs.cache
+D:\Sadika.net\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.exe
+D:\Sadika.net\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.deps.json
+D:\Sadika.net\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.runtimeconfig.json
+D:\Sadika.net\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.runtimeconfig.dev.json
+D:\Sadika.net\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.dll
+D:\Sadika.net\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.pdb
+D:\Sadika.net\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.dll
+D:\Sadika.net\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.pdb
+D:\Sadika.net\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.genruntimeconfig.cache
