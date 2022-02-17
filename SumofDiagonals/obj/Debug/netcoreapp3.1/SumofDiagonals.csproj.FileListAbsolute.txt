@@ -1,0 +1,13 @@
+D:\Sadika.net\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.csprojAssemblyReference.cache
+D:\Sadika.net\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.AssemblyInfoInputs.cache
+D:\Sadika.net\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.AssemblyInfo.cs
+D:\Sadika.net\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.csproj.CoreCompileInputs.cache
+D:\Sadika.net\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.exe
+D:\Sadika.net\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.deps.json
+D:\Sadika.net\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.runtimeconfig.json
+D:\Sadika.net\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.runtimeconfig.dev.json
+D:\Sadika.net\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.dll
+D:\Sadika.net\SumofDiagonals\bin\Debug\netcoreapp3.1\SumofDiagonals.pdb
+D:\Sadika.net\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.dll
+D:\Sadika.net\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.pdb
+D:\Sadika.net\SumofDiagonals\obj\Debug\netcoreapp3.1\SumofDiagonals.genruntimeconfig.cache
