@@ -29,4 +29,5 @@ namespace Binarytriangle<br>
 }<br>
 
 OUTPUT:<br>
-![image](https://user-images.githubusercontent.com/97940468/154414928-3ac004c8-cb53-4386-875d-6ee631b90788.png)
+![image](https://user-images.githubusercontent.com/97940468/154416346-aab9b949-daaf-48d4-b745-2c70aead6524.png)
+
