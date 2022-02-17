@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Graycode\bin\Debug\netcoreapp3.1\Graycode.exe
+C:\Users\ADMIN\source\repos\Graycode\bin\Debug\netcoreapp3.1\Graycode.deps.json
+C:\Users\ADMIN\source\repos\Graycode\bin\Debug\netcoreapp3.1\Graycode.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Graycode\bin\Debug\netcoreapp3.1\Graycode.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Graycode\bin\Debug\netcoreapp3.1\Graycode.dll
+C:\Users\ADMIN\source\repos\Graycode\bin\Debug\netcoreapp3.1\Graycode.pdb
+C:\Users\ADMIN\source\repos\Graycode\obj\Debug\netcoreapp3.1\Graycode.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Graycode\obj\Debug\netcoreapp3.1\Graycode.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Graycode\obj\Debug\netcoreapp3.1\Graycode.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Graycode\obj\Debug\netcoreapp3.1\Graycode.dll
+C:\Users\ADMIN\source\repos\Graycode\obj\Debug\netcoreapp3.1\Graycode.pdb
+C:\Users\ADMIN\source\repos\Graycode\obj\Debug\netcoreapp3.1\Graycode.genruntimeconfig.cache
