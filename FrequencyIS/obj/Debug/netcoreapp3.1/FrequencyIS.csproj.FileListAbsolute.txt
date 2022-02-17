@@ -1,0 +1,12 @@
+D:\Sadika.net\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.AssemblyInfoInputs.cache
+D:\Sadika.net\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.AssemblyInfo.cs
+D:\Sadika.net\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.csproj.CoreCompileInputs.cache
+D:\Sadika.net\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.exe
+D:\Sadika.net\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.deps.json
+D:\Sadika.net\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.runtimeconfig.json
+D:\Sadika.net\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.runtimeconfig.dev.json
+D:\Sadika.net\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.dll
+D:\Sadika.net\FrequencyIS\bin\Debug\netcoreapp3.1\FrequencyIS.pdb
+D:\Sadika.net\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.dll
+D:\Sadika.net\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.pdb
+D:\Sadika.net\FrequencyIS\obj\Debug\netcoreapp3.1\FrequencyIS.genruntimeconfig.cache
