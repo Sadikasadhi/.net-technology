@@ -1,0 +1,13 @@
+D:\Sadika.net\AmicableNumber\bin\Debug\netcoreapp3.1\AmicableNumber.exe
+D:\Sadika.net\AmicableNumber\bin\Debug\netcoreapp3.1\AmicableNumber.deps.json
+D:\Sadika.net\AmicableNumber\bin\Debug\netcoreapp3.1\AmicableNumber.runtimeconfig.json
+D:\Sadika.net\AmicableNumber\bin\Debug\netcoreapp3.1\AmicableNumber.runtimeconfig.dev.json
+D:\Sadika.net\AmicableNumber\bin\Debug\netcoreapp3.1\AmicableNumber.dll
+D:\Sadika.net\AmicableNumber\bin\Debug\netcoreapp3.1\AmicableNumber.pdb
+D:\Sadika.net\AmicableNumber\obj\Debug\netcoreapp3.1\AmicableNumber.csprojAssemblyReference.cache
+D:\Sadika.net\AmicableNumber\obj\Debug\netcoreapp3.1\AmicableNumber.AssemblyInfoInputs.cache
+D:\Sadika.net\AmicableNumber\obj\Debug\netcoreapp3.1\AmicableNumber.AssemblyInfo.cs
+D:\Sadika.net\AmicableNumber\obj\Debug\netcoreapp3.1\AmicableNumber.csproj.CoreCompileInputs.cache
+D:\Sadika.net\AmicableNumber\obj\Debug\netcoreapp3.1\AmicableNumber.dll
+D:\Sadika.net\AmicableNumber\obj\Debug\netcoreapp3.1\AmicableNumber.pdb
+D:\Sadika.net\AmicableNumber\obj\Debug\netcoreapp3.1\AmicableNumber.genruntimeconfig.cache
