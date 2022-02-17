@@ -1,0 +1,12 @@
+D:\Sadika.net\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.AssemblyInfoInputs.cache
+D:\Sadika.net\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.AssemblyInfo.cs
+D:\Sadika.net\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.csproj.CoreCompileInputs.cache
+D:\Sadika.net\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.exe
+D:\Sadika.net\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.deps.json
+D:\Sadika.net\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.runtimeconfig.json
+D:\Sadika.net\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.runtimeconfig.dev.json
+D:\Sadika.net\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.dll
+D:\Sadika.net\RegisterNum\bin\Debug\netcoreapp3.1\RegisterNum.pdb
+D:\Sadika.net\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.dll
+D:\Sadika.net\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.pdb
+D:\Sadika.net\RegisterNum\obj\Debug\netcoreapp3.1\RegisterNum.genruntimeconfig.cache
