@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\helllo\bin\Debug\netcoreapp3.1\helllo.exe
+C:\Users\ADMIN\source\repos\helllo\bin\Debug\netcoreapp3.1\helllo.deps.json
+C:\Users\ADMIN\source\repos\helllo\bin\Debug\netcoreapp3.1\helllo.runtimeconfig.json
+C:\Users\ADMIN\source\repos\helllo\bin\Debug\netcoreapp3.1\helllo.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\helllo\bin\Debug\netcoreapp3.1\helllo.dll
+C:\Users\ADMIN\source\repos\helllo\bin\Debug\netcoreapp3.1\helllo.pdb
+C:\Users\ADMIN\source\repos\helllo\obj\Debug\netcoreapp3.1\helllo.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\helllo\obj\Debug\netcoreapp3.1\helllo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\helllo\obj\Debug\netcoreapp3.1\helllo.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\helllo\obj\Debug\netcoreapp3.1\helllo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\helllo\obj\Debug\netcoreapp3.1\helllo.dll
+C:\Users\ADMIN\source\repos\helllo\obj\Debug\netcoreapp3.1\helllo.pdb
+C:\Users\ADMIN\source\repos\helllo\obj\Debug\netcoreapp3.1\helllo.genruntimeconfig.cache
