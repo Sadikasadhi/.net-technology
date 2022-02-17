@@ -1,0 +1,12 @@
+D:\Sadika.net\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.exe
+D:\Sadika.net\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.deps.json
+D:\Sadika.net\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.runtimeconfig.json
+D:\Sadika.net\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.runtimeconfig.dev.json
+D:\Sadika.net\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.dll
+D:\Sadika.net\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.pdb
+D:\Sadika.net\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.AssemblyInfoInputs.cache
+D:\Sadika.net\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.AssemblyInfo.cs
+D:\Sadika.net\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.csproj.CoreCompileInputs.cache
+D:\Sadika.net\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.dll
+D:\Sadika.net\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.pdb
+D:\Sadika.net\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.genruntimeconfig.cache
