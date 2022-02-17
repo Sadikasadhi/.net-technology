@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Box\obj\Debug\netcoreapp3.1\Box.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Box\obj\Debug\netcoreapp3.1\Box.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Box\obj\Debug\netcoreapp3.1\Box.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Box\bin\Debug\netcoreapp3.1\Box.exe
+C:\Users\ADMIN\source\repos\Box\bin\Debug\netcoreapp3.1\Box.deps.json
+C:\Users\ADMIN\source\repos\Box\bin\Debug\netcoreapp3.1\Box.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Box\bin\Debug\netcoreapp3.1\Box.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Box\bin\Debug\netcoreapp3.1\Box.dll
+C:\Users\ADMIN\source\repos\Box\bin\Debug\netcoreapp3.1\Box.pdb
+C:\Users\ADMIN\source\repos\Box\obj\Debug\netcoreapp3.1\Box.dll
+C:\Users\ADMIN\source\repos\Box\obj\Debug\netcoreapp3.1\Box.pdb
+C:\Users\ADMIN\source\repos\Box\obj\Debug\netcoreapp3.1\Box.genruntimeconfig.cache
