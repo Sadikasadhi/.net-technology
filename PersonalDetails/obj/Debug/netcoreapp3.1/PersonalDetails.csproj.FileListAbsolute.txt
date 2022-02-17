@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.exe
+C:\Users\ADMIN\source\repos\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.deps.json
+C:\Users\ADMIN\source\repos\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.runtimeconfig.json
+C:\Users\ADMIN\source\repos\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.dll
+C:\Users\ADMIN\source\repos\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.pdb
+C:\Users\ADMIN\source\repos\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.dll
+C:\Users\ADMIN\source\repos\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.pdb
+C:\Users\ADMIN\source\repos\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.genruntimeconfig.cache
