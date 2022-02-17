@@ -13,10 +13,10 @@ namespace Binarytriangle<br>
             number = Convert.ToInt32(Console.ReadLine());<br>
             for(int i=1; i<=number;i++)<br>
             {<br>
-                for(int space=number-i;space>0;space--)<br>
-                {<br>
-                    Console.Write("");<br>
-                }<br>
+                for(int space=number-i;space>0;space--)
+                {
+                    Console.Write("");
+                }
                 for(int j=0;j<i;j++)<br>
                 {<br>
                     Console.Write(digit + "");<br>
