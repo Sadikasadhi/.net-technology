@@ -2,7 +2,7 @@
 1. C# program to print a binary triangle.<br>
 using System;
 
-namespace Binarytriangle<br>
+namespace Exercises<br>
 {
 
     class Binarytriangle
@@ -10,7 +10,7 @@ namespace Binarytriangle<br>
     
         static void Main(string[] args)
         {
-            int number, digit = 1;<br>
+            int number, digit = 1;
             Console.Write("Enter the number of lines:");
             number = Convert.ToInt32(Console.ReadLine());
             
@@ -31,6 +31,8 @@ namespace Binarytriangle<br>
     }
 }
 
-OUTPUT:<br>
+OUTPUT:
 ![image](https://user-images.githubusercontent.com/97940468/154416346-aab9b949-daaf-48d4-b745-2c70aead6524.png)
+
+<br>
 
