@@ -1,32 +1,35 @@
 # .net-technology
 1. C# program to print a binary triangle.<br>
-using System;<br>
+using System;
 
 namespace Binarytriangle<br>
-{<br>
-    class Binarytriangle<br>
-    {<br>
-        static void Main(string[] args)<br>
-        {<br>
+{
+
+    class Binarytriangle
+    {
+    
+        static void Main(string[] args)
+        {
             int number, digit = 1;<br>
-            Console.Write("Enter the number of lines:");<br>
-            number = Convert.ToInt32(Console.ReadLine());<br>
-            for(int i=1; i<=number;i++)<br>
-            {<br>
-                for(int space=number-i;space>0;space--)<br>
-                {<br>
-                    Console.Write("");<br>
-                }<br>
-                for(int j=0;j<i;j++)<br>
-                {<br>
-                    Console.Write(digit + "");<br>
-                    digit = (digit == 1) ? 0 : 1;<br>
-                }<br>
-                Console.Write("\n");<br>
-            }<br>
-        }<br>
-    }<br>
-}<br>
+            Console.Write("Enter the number of lines:");
+            number = Convert.ToInt32(Console.ReadLine());
+            
+            for(int i=1; i<=number;i++)
+            {
+                for(int space=number-i;space>0;space--)
+                {
+                    Console.Write("");
+                }
+                for(int j=0;j<i;j++)
+                {
+                    Console.Write(digit + "");
+                    digit = (digit == 1) ? 0 : 1;
+                }
+                Console.Write("\n");
+            }
+        }
+    }
+}
 
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154416346-aab9b949-daaf-48d4-b745-2c70aead6524.png)
