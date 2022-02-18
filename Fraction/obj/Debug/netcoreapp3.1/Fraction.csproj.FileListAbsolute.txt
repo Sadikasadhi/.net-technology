@@ -1,0 +1,12 @@
+D:\Sadika.net\Fraction\obj\Debug\netcoreapp3.1\Fraction.AssemblyInfoInputs.cache
+D:\Sadika.net\Fraction\obj\Debug\netcoreapp3.1\Fraction.AssemblyInfo.cs
+D:\Sadika.net\Fraction\obj\Debug\netcoreapp3.1\Fraction.csproj.CoreCompileInputs.cache
+D:\Sadika.net\Fraction\bin\Debug\netcoreapp3.1\Fraction.exe
+D:\Sadika.net\Fraction\bin\Debug\netcoreapp3.1\Fraction.deps.json
+D:\Sadika.net\Fraction\bin\Debug\netcoreapp3.1\Fraction.runtimeconfig.json
+D:\Sadika.net\Fraction\bin\Debug\netcoreapp3.1\Fraction.runtimeconfig.dev.json
+D:\Sadika.net\Fraction\bin\Debug\netcoreapp3.1\Fraction.dll
+D:\Sadika.net\Fraction\bin\Debug\netcoreapp3.1\Fraction.pdb
+D:\Sadika.net\Fraction\obj\Debug\netcoreapp3.1\Fraction.dll
+D:\Sadika.net\Fraction\obj\Debug\netcoreapp3.1\Fraction.pdb
+D:\Sadika.net\Fraction\obj\Debug\netcoreapp3.1\Fraction.genruntimeconfig.cache
