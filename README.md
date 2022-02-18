@@ -225,6 +225,53 @@ OUTPUT:<br>
 
 <br>
 5. C# Program to calculate volume of 2 boxes and find the resultant volume after addition of 2 boxes by implementing operator overloading.<br>
+using System;
+
+namespace Box
+{
+    class Box
+    {
+        float width;
+        float height;
+        float length;
+        public float Volume
+        {
+            get { return width * height * length; }
+        }
+        public Box(float width,float height,float length)
+        {
+            this.width = width;
+            this.height = height;
+            this.length = height;
+        }
+        public static float operator+(Box box1,Box box2)
+        {
+            return box1.Volume + box2.Volume;
+        }
+        public override String ToString()
+        {
+            return " box with width"+width+",height" + height + "and length" + length;
+        }
+        }
+    class OperatorOverloading
+    { 
+        public static void Main()
+        {
+            Box box1 = new Box(10, 20, 30);
+            Box box2 = new Box(25, 32, 15);
+            Console.WriteLine("Volume of {0} is: {1}", box1, box1.Volume);
+            Console.WriteLine("Volume of {0} is: {1}", box2, box2.Volume);
+            Console.WriteLine("Volume after adding boxes: {0}",box1+box2);
+        }
+    }
+}
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/154636745-5306d598-cfcf-4a34-9ad7-a2719a0f22b5.png)
+<br>
+
+6.C# Program to implement principle of Delegates(Converting input string to uppercase first, last and entire string).<br>
+
 
 
 
