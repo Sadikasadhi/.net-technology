@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RegisterNum
+namespace Exercises
 {
     class RegisterNum
     {
