@@ -1,0 +1,12 @@
+D:\Sadika.net\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+D:\Sadika.net\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+D:\Sadika.net\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Sadika.net\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+D:\Sadika.net\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+D:\Sadika.net\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+D:\Sadika.net\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+D:\Sadika.net\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+D:\Sadika.net\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+D:\Sadika.net\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+D:\Sadika.net\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+D:\Sadika.net\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
