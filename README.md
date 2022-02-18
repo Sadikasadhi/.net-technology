@@ -196,6 +196,37 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154634690-af9f0042-05eb-4d39-803f-e4812b40b5b6.png)
 <br>
 
-4. C# Program to create a Gray code.
+4. C# Program to create a Gray code.<br>
+using System;
+
+namespace Exercises
+{
+    class Graycode
+    {
+        static int getGray(int n)
+        {
+            return n ^ (n >> 1);
+        }
+        static void Main(string[] args)
+        {
+            int InputNum, GrayNum;
+            Console.Write("\n Enter the decimal number:");
+            InputNum = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("\n Binary equivalent of {0}: {1}", InputNum, Convert.ToString(InputNum, 2));
+            GrayNum = getGray(InputNum);
+            Console.WriteLine("\n Gray code equvalent of {0} : {1}", InputNum, Convert.ToString(GrayNum, 2));
+        }
+
+    }
+}
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/154635339-bd853d51-fab8-4b63-a37a-294b620db775.png)
+
+<br>
+5. C# Program to calculate volume of 2 boxes and find the resultant volume after addition of 2 boxes by implementing operator overloading.<br>
+
+
+
 
 
