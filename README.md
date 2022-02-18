@@ -79,7 +79,9 @@ namespace AmicableNumber
 }
 
 OUTPUT:<br>
-![image](https://user-images.githubusercontent.com/97940468/154633848-c80290c4-d1a3-473d-86ae-fdd58099df01.png)
+![image](https://user-images.githubusercontent.com/97940468/154634242-01f8d7cc-a01f-4cd7-acc7-284a589c2f88.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/154634136-f3c0aad6-1959-489a-8a8f-d82711a909b5.png)
 
 <br>
  
