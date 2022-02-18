@@ -79,8 +79,8 @@ namespace AmicableNumber
 }
 
 OUTPUT:<br>
-![image](https://user-images.githubusercontent.com/97940468/154632659-4654e7b7-f50c-49c3-b37c-d9506b5c989e.png)<br>
-![image](https://user-images.githubusercontent.com/97940468/154632140-21df100a-f40a-45bc-8419-79cc3347db3e.png)
+![image](https://user-images.githubusercontent.com/97940468/154633848-c80290c4-d1a3-473d-86ae-fdd58099df01.png)
+
 <br>
  
  3.C# Program to Illustrate Multilevel Inheritance with visrtual Methods(displaying student details).
