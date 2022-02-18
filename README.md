@@ -227,7 +227,7 @@ OUTPUT:<br>
 5. C# Program to calculate volume of 2 boxes and find the resultant volume after addition of 2 boxes by implementing operator overloading.<br>
 using System;
 
-namespace Box
+namespace Exercises
 {
     class Box
     {
@@ -317,7 +317,7 @@ OUTPUT:<br>
   7. C# Program to generate Register Number automatically for 100 students using static cnstructor.<br>
   using System;
 
-namespace RegisterNum
+namespace Exercises
 {
 
     class RegisterNum
@@ -345,7 +345,7 @@ namespace RegisterNum
 
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154638059-4c4452f3-c4f9-4042-a085-ac36d5a08166.png)
-![image](https://user-images.githubusercontent.com/97940468/154638131-7cb1cb28-032b-45ee-a555-784e6bee98d4.png)
+![image](https://user-images.githubusercontent.com/97940468/154638265-a58ea4db-40e0-4508-ba48-3650e1c7e9cb.png)
 
 
 
