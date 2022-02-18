@@ -40,6 +40,7 @@ using System;
 
 namespace AmicableNumber
 {
+
     class AmicableNumber
     {
         static void Main(String[] args)
@@ -50,6 +51,7 @@ namespace AmicableNumber
             num1 =Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the  Second Number : ");
             num2 = Convert.ToInt32(Console.ReadLine());
+            
             for(int i=1;i<num1;i++)
             {
                 if (num1%i == 0)
@@ -77,4 +79,10 @@ namespace AmicableNumber
 }
 
 OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/154631976-9e955171-7ba9-4aa0-85e6-8062be85ca3b.png)<br>
+![image](https://user-images.githubusercontent.com/97940468/154632140-21df100a-f40a-45bc-8419-79cc3347db3e.png)
+<br>
+ 
+ 3.C# Program to Illustrate Multilevel Inheritance with visrtual Methods(displaying student details).
+
 
