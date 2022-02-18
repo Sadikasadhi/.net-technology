@@ -1,0 +1,13 @@
+D:\Sadika.net\ThreadPoolProg\obj\Debug\netcoreapp3.1\ThreadPoolProg.csprojAssemblyReference.cache
+D:\Sadika.net\ThreadPoolProg\obj\Debug\netcoreapp3.1\ThreadPoolProg.AssemblyInfoInputs.cache
+D:\Sadika.net\ThreadPoolProg\obj\Debug\netcoreapp3.1\ThreadPoolProg.AssemblyInfo.cs
+D:\Sadika.net\ThreadPoolProg\obj\Debug\netcoreapp3.1\ThreadPoolProg.csproj.CoreCompileInputs.cache
+D:\Sadika.net\ThreadPoolProg\bin\Debug\netcoreapp3.1\ThreadPoolProg.exe
+D:\Sadika.net\ThreadPoolProg\bin\Debug\netcoreapp3.1\ThreadPoolProg.deps.json
+D:\Sadika.net\ThreadPoolProg\bin\Debug\netcoreapp3.1\ThreadPoolProg.runtimeconfig.json
+D:\Sadika.net\ThreadPoolProg\bin\Debug\netcoreapp3.1\ThreadPoolProg.runtimeconfig.dev.json
+D:\Sadika.net\ThreadPoolProg\bin\Debug\netcoreapp3.1\ThreadPoolProg.dll
+D:\Sadika.net\ThreadPoolProg\bin\Debug\netcoreapp3.1\ThreadPoolProg.pdb
+D:\Sadika.net\ThreadPoolProg\obj\Debug\netcoreapp3.1\ThreadPoolProg.dll
+D:\Sadika.net\ThreadPoolProg\obj\Debug\netcoreapp3.1\ThreadPoolProg.pdb
+D:\Sadika.net\ThreadPoolProg\obj\Debug\netcoreapp3.1\ThreadPoolProg.genruntimeconfig.cache
