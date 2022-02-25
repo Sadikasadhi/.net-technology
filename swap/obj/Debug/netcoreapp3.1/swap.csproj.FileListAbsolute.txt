@@ -1,0 +1,12 @@
+D:\Sadika.net\swap\bin\Debug\netcoreapp3.1\swap.exe
+D:\Sadika.net\swap\bin\Debug\netcoreapp3.1\swap.deps.json
+D:\Sadika.net\swap\bin\Debug\netcoreapp3.1\swap.runtimeconfig.json
+D:\Sadika.net\swap\bin\Debug\netcoreapp3.1\swap.runtimeconfig.dev.json
+D:\Sadika.net\swap\bin\Debug\netcoreapp3.1\swap.dll
+D:\Sadika.net\swap\bin\Debug\netcoreapp3.1\swap.pdb
+D:\Sadika.net\swap\obj\Debug\netcoreapp3.1\swap.AssemblyInfoInputs.cache
+D:\Sadika.net\swap\obj\Debug\netcoreapp3.1\swap.AssemblyInfo.cs
+D:\Sadika.net\swap\obj\Debug\netcoreapp3.1\swap.csproj.CoreCompileInputs.cache
+D:\Sadika.net\swap\obj\Debug\netcoreapp3.1\swap.dll
+D:\Sadika.net\swap\obj\Debug\netcoreapp3.1\swap.pdb
+D:\Sadika.net\swap\obj\Debug\netcoreapp3.1\swap.genruntimeconfig.cache
