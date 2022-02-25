@@ -1,0 +1,12 @@
+D:\Sadika.net\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.exe
+D:\Sadika.net\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.deps.json
+D:\Sadika.net\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.runtimeconfig.json
+D:\Sadika.net\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.runtimeconfig.dev.json
+D:\Sadika.net\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.dll
+D:\Sadika.net\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.pdb
+D:\Sadika.net\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.AssemblyInfoInputs.cache
+D:\Sadika.net\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.AssemblyInfo.cs
+D:\Sadika.net\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.csproj.CoreCompileInputs.cache
+D:\Sadika.net\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.dll
+D:\Sadika.net\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.pdb
+D:\Sadika.net\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.genruntimeconfig.cache

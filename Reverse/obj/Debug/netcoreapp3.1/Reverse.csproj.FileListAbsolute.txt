@@ -1,0 +1,12 @@
+D:\Sadika.net\Reverse\obj\Debug\netcoreapp3.1\Reverse.AssemblyInfoInputs.cache
+D:\Sadika.net\Reverse\obj\Debug\netcoreapp3.1\Reverse.AssemblyInfo.cs
+D:\Sadika.net\Reverse\obj\Debug\netcoreapp3.1\Reverse.csproj.CoreCompileInputs.cache
+D:\Sadika.net\Reverse\bin\Debug\netcoreapp3.1\Reverse.exe
+D:\Sadika.net\Reverse\bin\Debug\netcoreapp3.1\Reverse.deps.json
+D:\Sadika.net\Reverse\bin\Debug\netcoreapp3.1\Reverse.runtimeconfig.json
+D:\Sadika.net\Reverse\bin\Debug\netcoreapp3.1\Reverse.runtimeconfig.dev.json
+D:\Sadika.net\Reverse\bin\Debug\netcoreapp3.1\Reverse.dll
+D:\Sadika.net\Reverse\bin\Debug\netcoreapp3.1\Reverse.pdb
+D:\Sadika.net\Reverse\obj\Debug\netcoreapp3.1\Reverse.dll
+D:\Sadika.net\Reverse\obj\Debug\netcoreapp3.1\Reverse.pdb
+D:\Sadika.net\Reverse\obj\Debug\netcoreapp3.1\Reverse.genruntimeconfig.cache
