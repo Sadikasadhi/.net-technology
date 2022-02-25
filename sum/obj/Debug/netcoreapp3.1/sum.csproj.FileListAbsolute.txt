@@ -1,0 +1,12 @@
+D:\Sadika.net\sum\bin\Debug\netcoreapp3.1\sum.exe
+D:\Sadika.net\sum\bin\Debug\netcoreapp3.1\sum.deps.json
+D:\Sadika.net\sum\bin\Debug\netcoreapp3.1\sum.runtimeconfig.json
+D:\Sadika.net\sum\bin\Debug\netcoreapp3.1\sum.runtimeconfig.dev.json
+D:\Sadika.net\sum\bin\Debug\netcoreapp3.1\sum.dll
+D:\Sadika.net\sum\bin\Debug\netcoreapp3.1\sum.pdb
+D:\Sadika.net\sum\obj\Debug\netcoreapp3.1\sum.AssemblyInfoInputs.cache
+D:\Sadika.net\sum\obj\Debug\netcoreapp3.1\sum.AssemblyInfo.cs
+D:\Sadika.net\sum\obj\Debug\netcoreapp3.1\sum.csproj.CoreCompileInputs.cache
+D:\Sadika.net\sum\obj\Debug\netcoreapp3.1\sum.dll
+D:\Sadika.net\sum\obj\Debug\netcoreapp3.1\sum.pdb
+D:\Sadika.net\sum\obj\Debug\netcoreapp3.1\sum.genruntimeconfig.cache
