@@ -1,0 +1,12 @@
+D:\Sadika.net\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.exe
+D:\Sadika.net\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.deps.json
+D:\Sadika.net\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.runtimeconfig.json
+D:\Sadika.net\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.runtimeconfig.dev.json
+D:\Sadika.net\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.dll
+D:\Sadika.net\Armstrong\bin\Debug\netcoreapp3.1\Armstrong.pdb
+D:\Sadika.net\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.AssemblyInfoInputs.cache
+D:\Sadika.net\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.AssemblyInfo.cs
+D:\Sadika.net\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.csproj.CoreCompileInputs.cache
+D:\Sadika.net\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.dll
+D:\Sadika.net\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.pdb
+D:\Sadika.net\Armstrong\obj\Debug\netcoreapp3.1\Armstrong.genruntimeconfig.cache
