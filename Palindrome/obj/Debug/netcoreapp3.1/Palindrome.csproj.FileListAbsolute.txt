@@ -1,0 +1,12 @@
+D:\Sadika.net\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+D:\Sadika.net\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+D:\Sadika.net\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+D:\Sadika.net\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+D:\Sadika.net\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+D:\Sadika.net\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+D:\Sadika.net\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+D:\Sadika.net\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+D:\Sadika.net\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csproj.CoreCompileInputs.cache
+D:\Sadika.net\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+D:\Sadika.net\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
+D:\Sadika.net\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.genruntimeconfig.cache
