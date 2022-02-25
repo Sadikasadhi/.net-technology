@@ -1,0 +1,12 @@
+D:\Sadika.net\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+D:\Sadika.net\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+D:\Sadika.net\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Sadika.net\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+D:\Sadika.net\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+D:\Sadika.net\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+D:\Sadika.net\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+D:\Sadika.net\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+D:\Sadika.net\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+D:\Sadika.net\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+D:\Sadika.net\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+D:\Sadika.net\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
