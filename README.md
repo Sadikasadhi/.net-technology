@@ -66,17 +66,51 @@ OUTPUT:<br>
 
 3. Write a C# program to check whether the given element is Palindrome or not.
 
+using System;
+
+namespace Exercises
+{
+    class Palindrome
+    {
+        static void Main(string[] args)
+        {
+            int n, r, sum = 0, temp;
+            Console.Write("Enter the Number:");
+            n = int.Parse(Console.ReadLine());
+            temp = n;
+            while(n>0)
+            {
+                r = n % 10;
+                sum = (sum * 10) + r;
+                n = n / 10;
+            }
+            if (temp == sum)
+                Console.WriteLine("Number is Palindrome");
+            else
+                Console.WriteLine("Number is not Palindrome");
+        }
+    }
+}
+
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156503582-7947dee9-9e51-4741-9d6e-f77e1e8e6a28.png)
 <br>
 ![image](https://user-images.githubusercontent.com/97940468/156503708-f9f3b113-87c7-4329-bc82-10c2467bea71.png)
 <br>
 
-6. Write a C# program to print factorial of a number.
-7. Write a C# program to check whether the given element is Armstrong or not.
-8. Write a C# program to find the sum of Digits.
-9. Write a C# program to Reverse a given number.  
- 
+4. Write a C# program to print factorial of a number.
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/156504485-7e1aa166-5edd-4a85-bed7-54e6fc19d1a5.png)
+
+
+5. Write a C# program to check whether the given element is Armstrong or not.
+
+OUTPUT:<br>
+6. Write a C# program to find the sum of Digits.
+OUTPUT:<br>
+7. Write a C# program to Reverse a given number.  
+OUTPUT:<br> 
     
 
 1. C# program to print a binary triangle.<br>
