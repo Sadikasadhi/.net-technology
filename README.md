@@ -1,4 +1,42 @@
 # .net-technology
+1. Write a C# program to print Fibonacci series using Recursion and without using Recursion.
+
+using System;
+
+namespace Exercises
+{
+    class Fibonacci
+    {
+        public static void Main(string[] args)
+        {
+            int n1 = 0, n2 = 1, n3, i, number;
+            Console.Write("Enter the number of elements:");
+            number = int.Parse(Console.ReadLine());
+            Console.Write(n1 + " " + n2 + " ");
+            
+            for(i=2;i<number;++i)
+            {
+                n3 = n1 + n2;
+                Console.Write(n3 + " ");
+                n1 = n2;
+                n2 = n3;
+            }
+        }
+    }
+}
+<br>
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/156501447-70eccbc7-b161-4861-8205-830813d9f2ba.png)
+<br>
+2. Write a C# program to check whether the given number is Prime or not.
+3. Write a C# program to check whether the given element is Palindrome or not.
+4. Write a C# program to print factorial of a number.
+5. Write a C# program to check whether the given element is Armstrong or not.
+6. Write a C# program to find the sum of Digits.
+7. Write a C# program to Reverse a given number.  
+ 
+    
+
 1. C# program to print a binary triangle.<br>
 using System;
 
