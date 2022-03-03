@@ -29,11 +29,53 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156501447-70eccbc7-b161-4861-8205-830813d9f2ba.png)
 <br>
 2. Write a C# program to check whether the given number is Prime or not.
+
+using System;
+
+namespace Exercises
+{
+    class Primenumber
+    {
+        static void Main(string[] args)
+        {
+            int n, i, m = 0, flag = 0;
+            Console.Write("Enter the Number to check Prime:");
+            n = int.Parse(Console.ReadLine());
+            m = n / 2;
+            for(i=2;i<=m;i++)
+            {
+                if(n%i==0)
+                {
+                    Console.Write("Number is not Prime");
+                    flag = 1;
+                    break;
+                }
+            }
+            if (flag == 0)
+                Console.Write("number is Prime");
+        }
+    }
+}
+<br>
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/156503073-68c48d68-2eec-44be-a726-a55696457a47.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/156502938-ba88aa3d-2811-400a-a9e5-55286a4abd36.png)
+<br>
+
+
 3. Write a C# program to check whether the given element is Palindrome or not.
-4. Write a C# program to print factorial of a number.
-5. Write a C# program to check whether the given element is Armstrong or not.
-6. Write a C# program to find the sum of Digits.
-7. Write a C# program to Reverse a given number.  
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/156503582-7947dee9-9e51-4741-9d6e-f77e1e8e6a28.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/156503708-f9f3b113-87c7-4329-bc82-10c2467bea71.png)
+<br>
+
+6. Write a C# program to print factorial of a number.
+7. Write a C# program to check whether the given element is Armstrong or not.
+8. Write a C# program to find the sum of Digits.
+9. Write a C# program to Reverse a given number.  
  
     
 
