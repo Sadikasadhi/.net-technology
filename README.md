@@ -159,11 +159,11 @@ namespace Exercises
     }
 }
 
-<br>
+
 OUTPUT:<br>
-![image](https://user-images.githubusercontent.com/97940468/156505417-30854f3f-9737-4c38-93a3-d45dda4caef2.png)
-<br> 
-![image](https://user-images.githubusercontent.com/97940468/156505529-44ecf7cf-67bc-4446-a64f-518f1f90b11b.png)
+![image](https://user-images.githubusercontent.com/97940468/156516873-cec6e9f5-f58c-4260-8fab-92fadf15196c.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/156517059-646b22b5-d1f9-45b7-9213-da925f2245a9.png)
 <br>
 
 6. Write a C# program to find the sum of Digits.
@@ -190,6 +190,7 @@ namespace Exercises
         }
     }
 }
+
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156506346-808ed48e-ef28-4f1e-9b87-2c76bc6b75ea.png)
 <br> 
@@ -218,6 +219,7 @@ namespace Exercises
         }
     }
 }
+
 OUTPUT:<br> 
 ![image](https://user-images.githubusercontent.com/97940468/156506623-7e34867b-2718-4098-849d-e0db5797166b.png)
     <br> 
