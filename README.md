@@ -126,10 +126,38 @@ OUTPUT:<br>
 
 5. Write a C# program to check whether the given element is Armstrong or not.
 
+using System;
+
+namespace Exercises
+{
+    class Armstrong
+    {
+        static void Main(string[] args)
+        {
+            int n, r, sum = 0, temp;
+            Console.Write("Enter the Number= ");
+            n = int.Parse(Console.ReadLine());
+            temp = n;
+            while (n > 0)
+            {
+                r = n % 10;
+                sum = sum + (r * r * r);
+                n = n / 10;
+            }
+            if (temp == sum)
+                Console.Write("Armstrong Number.");
+            else
+                Console.Write("Not Armstrong Number.");
+        }
+    }
+}
+
+<br>
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156505417-30854f3f-9737-4c38-93a3-d45dda4caef2.png)<br> 
 ![image](https://user-images.githubusercontent.com/97940468/156505529-44ecf7cf-67bc-4446-a64f-518f1f90b11b.png)
 <br>
+
 6. Write a C# program to find the sum of Digits.
 OUTPUT:<br>
 <br> 
