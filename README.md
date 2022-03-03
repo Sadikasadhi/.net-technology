@@ -791,8 +791,10 @@ namespace Exercises
 }
 
  OUTPUT:<br>
- 
+ ![image](https://user-images.githubusercontent.com/97940468/156512591-4cf75486-d9a2-415d-914c-433912745c83.png)
+![image](https://user-images.githubusercontent.com/97940468/156512738-2cfffa40-ba0f-40d7-8cad-63c468246b67.png) 
  <br>
+ 
  19. C# program to perform File Comparison. 
  
 using System;
@@ -831,8 +833,18 @@ namespace Exercises
 }
 
  OUTPUT:<br>
- 
+ ![image](https://user-images.githubusercontent.com/97940468/156513568-cf377b94-7b83-4f69-96d6-558383ca7723.png)
+<br>
+ ![image](https://user-images.githubusercontent.com/97940468/156513412-5bfbeb62-31d6-4aab-915a-fd1f1a969031.png)
  <br>
+ ![image](https://user-images.githubusercontent.com/97940468/156513727-920f0b7b-be4e-4de4-8d96-69d411723dd8.png)
+ <br>
+ ![image](https://user-images.githubusercontent.com/97940468/156513843-add3b9f0-4703-498d-b245-2091de36d85a.png)
+ <br>
+ ![image](https://user-images.githubusercontent.com/97940468/156513948-04765c45-365f-44ca-912e-2a6de2c2f03e.png)
+<br>
+ 
+
  20. C# program to Implement IComparable Interface.
 
 using System;
@@ -901,14 +913,16 @@ namespace Exercises
 
 
   OUTPUT:<br>
- 
+ ![image](https://user-images.githubusercontent.com/97940468/156514163-3842b7ec-c149-4603-8abd-5cb3bfc2d014.png)
  <br>
+ 
  21. C# program to create Thread Pools.
  
 using System;
 using System.Threading;
 
 namespace Exercises
+{
 
 class ThreadPoolProg
     {
@@ -943,7 +957,7 @@ class ThreadPoolProg
     }
 }
   OUTPUT:<br>
- 
+ ![image](https://user-images.githubusercontent.com/97940468/156515034-4d6439a4-3d48-4f18-8108-dcea07a7f3e0.png)
  <br>
  22. C# program to demonstrate error handling using Try, catch and Finally block. 
  
@@ -951,6 +965,7 @@ using System;
 
 namespace Exercises
 {
+
     class ExceptionHandling
     {
         static void Main(string[] args)
@@ -997,7 +1012,7 @@ public class Age
 }
 
  OUTPUT:<br>
- 
+ ![image](https://user-images.githubusercontent.com/97940468/156514654-4478d3c4-51d0-4c6f-8f5f-7958963316d0.png)
  <br>
 
 
