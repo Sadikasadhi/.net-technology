@@ -155,7 +155,8 @@ namespace Exercises
 
 <br>
 OUTPUT:<br>
-![image](https://user-images.githubusercontent.com/97940468/156505417-30854f3f-9737-4c38-93a3-d45dda4caef2.png)<br> 
+![image](https://user-images.githubusercontent.com/97940468/156505417-30854f3f-9737-4c38-93a3-d45dda4caef2.png)
+<br> 
 ![image](https://user-images.githubusercontent.com/97940468/156505529-44ecf7cf-67bc-4446-a64f-518f1f90b11b.png)
 <br>
 
@@ -595,6 +596,54 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156499718-33cddccc-243e-40c5-bd19-a554c928ba4f.png)
  <br>
  16. C# program that benchmarks 2D, jagged array allocation.
+ 
+ using System;
+using System.Diagnostics;
+
+namespace Exercises
+{
+    class BenchmarkAllocation
+    {
+        const int _max= 100000;
+        static void Main(string[] args)
+        {
+            var Arr2D = new int[100, 100];
+            var ArrJagged = new int[100][];
+            for(int i=0;i<100;i++)
+            {
+                ArrJagged[i] = new int[100];
+            }
+            var Stopwatch2D = Stopwatch.StartNew();
+            for(int i=0;i<_max;i++)
+            {
+                for(int j=0;j<100;j++)
+                {
+                    for(int k=0;k<100;k++)
+                    {
+                        Arr2D[j, k] = k;
+                    }
+                }
+            }
+            Stopwatch2D.Stop();
+            var StopwatchJagged = Stopwatch.StartNew();
+            for(int i=0;i<_max;i++)
+            {
+                for(int j=0;j<100;j++)
+                {
+                    for(int k=0;k<100;k++)
+                    {
+                        ArrJagged[j][k] = k;
+                    }
+                }
+            }
+            StopwatchJagged.Stop();
+            Console.Write("\n Time taken for allocation in case of 2D array:");
+            Console.WriteLine(Stopwatch2D.Elapsed.TotalMilliseconds + " milliseconds");
+            Console.Write("\n Time taken for allocation in case of Jagged array:");
+            Console.WriteLine(StopwatchJagged.Elapsed.TotalMilliseconds + " milliseconds");
+        }
+    }
+}
 
 
 
