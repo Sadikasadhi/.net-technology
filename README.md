@@ -347,6 +347,42 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154638059-4c4452f3-c4f9-4042-a085-ac36d5a08166.png)
 ![image](https://user-images.githubusercontent.com/97940468/154638265-a58ea4db-40e0-4508-ba48-3650e1c7e9cb.png)
 
+<br>
+8. C# program to find the frequency of the word "is" in a given sentence.
+
+using System;
+
+namespace Excercises
+{
+    class FrequencyIS
+    {
+        static void Main(string[] args)
+        {
+            int count = 0;
+            string inputString;
+            Console.WriteLine("\n---------Frequency of word 'is' --------");
+            Console.Write("\n Enter the input string:");
+            inputString = Console.ReadLine();
+            char[] separator = { ',',' ', '.', '!', '\n' };
+            string testString = inputString.ToLower();
+            string[] outcomes = testString.Split(separator);
+            foreach(String s in outcomes)
+            {
+                Console.WriteLine(s);
+                if (s == "is")
+                    count++;
+            }
+            Console.WriteLine("\n Number of 'is' in '"+inputString+"'is:"+count);
+        }
+    }
+}
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/156499718-33cddccc-243e-40c5-bd19-a554c928ba4f.png)
+ <br>
+ 9. C# program that benchmarks 2D, jagged array allocation.
+
+
 
 
 
