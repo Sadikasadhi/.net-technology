@@ -28,6 +28,7 @@ namespace Exercises
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156501447-70eccbc7-b161-4861-8205-830813d9f2ba.png)
 <br>
+
 2. Write a C# program to check whether the given number is Prime or not.
 
 using System;
@@ -99,19 +100,44 @@ OUTPUT:<br>
 <br>
 
 4. Write a C# program to print factorial of a number.
+using System;
+
+namespace Exercises
+{
+    class Factorial
+    {
+        static void Main(string[] args)
+        {
+            int i, fact = 1, number;
+            Console.WriteLine("Enter any Number:");
+            number = int.Parse(Console.ReadLine());
+            for(i=1;i<=number;i++)
+            {
+                fact = fact * i;
+            }
+            Console.Write("Factorial of" + number + "is:" + fact);
+        }
+    }
+}
 
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156504485-7e1aa166-5edd-4a85-bed7-54e6fc19d1a5.png)
-
+<br>
 
 5. Write a C# program to check whether the given element is Armstrong or not.
 
 OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/156505417-30854f3f-9737-4c38-93a3-d45dda4caef2.png)<br> 
+![image](https://user-images.githubusercontent.com/97940468/156505529-44ecf7cf-67bc-4446-a64f-518f1f90b11b.png)
+<br>
 6. Write a C# program to find the sum of Digits.
 OUTPUT:<br>
+<br> 
+<br> 
 7. Write a C# program to Reverse a given number.  
 OUTPUT:<br> 
-    
+    <br> 
+    <br> 
 
 1. C# program to print a binary triangle.<br>
 using System;
