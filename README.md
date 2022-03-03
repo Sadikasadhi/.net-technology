@@ -707,7 +707,9 @@ namespace SumofDiagonals
     }
 }
  OUTPUT:<br>
- 
+ ![image](https://user-images.githubusercontent.com/97940468/156515631-c10ca9c0-a0a1-42f2-9eca-dcd2e4cc149c.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/156515757-9f031577-1f50-4482-857e-840579fd75de.png)
  <br>
  18. C# program to create a File, check the Existence of a File and Read the Contents of the File.
  
