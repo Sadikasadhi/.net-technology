@@ -595,13 +595,15 @@ namespace Excercises
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156499718-33cddccc-243e-40c5-bd19-a554c928ba4f.png)
  <br>
- 16. C# program that benchmarks 2D, jagged array allocation.
+ 
+16. C# program that benchmarks 2D, jagged array allocation.
  
  using System;
 using System.Diagnostics;
 
 namespace Exercises
 {
+
     class BenchmarkAllocation
     {
         const int _max= 100000;
@@ -614,6 +616,7 @@ namespace Exercises
                 ArrJagged[i] = new int[100];
             }
             var Stopwatch2D = Stopwatch.StartNew();
+            
             for(int i=0;i<_max;i++)
             {
                 for(int j=0;j<100;j++)
@@ -626,6 +629,7 @@ namespace Exercises
             }
             Stopwatch2D.Stop();
             var StopwatchJagged = Stopwatch.StartNew();
+            
             for(int i=0;i<_max;i++)
             {
                 for(int j=0;j<100;j++)
@@ -644,6 +648,15 @@ namespace Exercises
         }
     }
 }
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/156507883-5da15a48-adbe-4a1c-bc66-0ce9789049d0.png)
+<br>
+
+17. C# program to find the sum of the values on Diagonal of the matrix.
+
+
+
 
 
 
