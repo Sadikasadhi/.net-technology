@@ -1,4 +1,5 @@
 # .net-technology
+
 1. Write a C# program to print Fibonacci series using Recursion and without using Recursion.
 
 using System;
@@ -182,14 +183,37 @@ namespace Exercises
     }
 }
 OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/156506346-808ed48e-ef28-4f1e-9b87-2c76bc6b75ea.png)
 <br> 
-<br> 
+
 7. Write a C# program to Reverse a given number.  
+
+using System;
+
+namespace Exercises
+{
+    class Reverse
+    {
+        static void Main(string[] args)
+        {
+            int n, reverse = 0, rem;
+            Console.Write("Enter a number:");
+            n = int.Parse(Console.ReadLine());
+            while(n!=0)
+            {
+                rem = n % 10;
+                reverse = reverse * 10 + rem;
+                n /=10;
+            }
+            Console.Write("Reversed Number:" + reverse);
+        }
+    }
+}
 OUTPUT:<br> 
-    <br> 
+![image](https://user-images.githubusercontent.com/97940468/156506623-7e34867b-2718-4098-849d-e0db5797166b.png)
     <br> 
 
-1. C# program to print a binary triangle.<br>
+8. C# program to print a binary triangle.<br>
 using System;
 
 namespace Exercises<br>
@@ -223,9 +247,9 @@ namespace Exercises<br>
 
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154416346-aab9b949-daaf-48d4-b745-2c70aead6524.png)
-
 <br>
-2. C# Program to check whether the entered number is an Amicable Number or Not.
+
+9. C# program to check whether the entered number is an Amicable Number or Not.
 using System; 
 
 namespace AmicableNumber
@@ -275,7 +299,7 @@ OUTPUT:<br>
 
 <br>
  
- 3.C# Program to Illustrate Multilevel Inheritance with visrtual Methods(displaying student details).<br>
+ 10. C# program to Illustrate Multilevel Inheritance with visrtual Methods(displaying student details).<br>
  using System;
 
 namespace Excercises
@@ -386,7 +410,7 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154634690-af9f0042-05eb-4d39-803f-e4812b40b5b6.png)
 <br>
 
-4. C# Program to create a Gray code.<br>
+11. C# program to create a Gray code.<br>
 using System;
 
 namespace Exercises
@@ -414,7 +438,7 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154635339-bd853d51-fab8-4b63-a37a-294b620db775.png)
 
 <br>
-5. C# Program to calculate volume of 2 boxes and find the resultant volume after addition of 2 boxes by implementing operator overloading.<br>
+12. C# program to calculate volume of 2 boxes and find the resultant volume after addition of 2 boxes by implementing operator overloading.<br>
 using System;
 
 namespace Exercises
@@ -460,7 +484,7 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154636745-5306d598-cfcf-4a34-9ad7-a2719a0f22b5.png)
 <br>
 
-6.C# Program to implement principle of Delegates(Converting input string to uppercase first, last and entire string).<br>
+13. C# program to implement principle of Delegates(Converting input string to uppercase first, last and entire string).<br>
 using System;
 
 namespace Exercises
@@ -504,7 +528,7 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154637265-daa1bd10-4b40-4727-bbbc-757e2fd09907.png)
 <br>
 
-  7. C# Program to generate Register Number automatically for 100 students using static cnstructor.<br>
+14. C# program to generate Register Number automatically for 100 students using static cnstructor.<br>
   using System;
 
 namespace Exercises
@@ -538,7 +562,7 @@ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/154638265-a58ea4db-40e0-4508-ba48-3650e1c7e9cb.png)
 
 <br>
-8. C# program to find the frequency of the word "is" in a given sentence.
+15. C# program to find the frequency of the word "is" in a given sentence.
 
 using System;
 
@@ -570,7 +594,7 @@ namespace Excercises
 OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/97940468/156499718-33cddccc-243e-40c5-bd19-a554c928ba4f.png)
  <br>
- 9. C# program that benchmarks 2D, jagged array allocation.
+ 16. C# program that benchmarks 2D, jagged array allocation.
 
 
 
