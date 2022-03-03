@@ -6,6 +6,7 @@ using System;
 
 namespace Exercises
 {
+
     class Fibonacci
     {
         public static void Main(string[] args)
@@ -36,6 +37,7 @@ using System;
 
 namespace Exercises
 {
+
     class Primenumber
     {
         static void Main(string[] args)
@@ -44,6 +46,7 @@ namespace Exercises
             Console.Write("Enter the Number to check Prime:");
             n = int.Parse(Console.ReadLine());
             m = n / 2;
+            
             for(i=2;i<=m;i++)
             {
                 if(n%i==0)
@@ -72,6 +75,7 @@ using System;
 
 namespace Exercises
 {
+
     class Palindrome
     {
         static void Main(string[] args)
@@ -105,6 +109,7 @@ using System;
 
 namespace Exercises
 {
+
     class Factorial
     {
         static void Main(string[] args)
@@ -131,6 +136,7 @@ using System;
 
 namespace Exercises
 {
+
     class Armstrong
     {
         static void Main(string[] args)
@@ -166,6 +172,7 @@ using System;
 
 namespace Exercises
 {
+
     class sum
     {
         static void Main(string[] args)
@@ -193,6 +200,7 @@ using System;
 
 namespace Exercises
 {
+
     class Reverse
     {
         static void Main(string[] args)
@@ -217,7 +225,7 @@ OUTPUT:<br>
 8. C# program to print a binary triangle.<br>
 using System;
 
-namespace Exercises<br>
+namespace Exercises
 {
 
     class Binarytriangle
@@ -251,6 +259,7 @@ OUTPUT:<br>
 <br>
 
 9. C# program to check whether the entered number is an Amicable Number or Not.
+
 using System; 
 
 namespace AmicableNumber
@@ -416,6 +425,7 @@ using System;
 
 namespace Exercises
 {
+
     class Graycode
     {
         static int getGray(int n)
@@ -444,6 +454,7 @@ using System;
 
 namespace Exercises
 {
+
     class Box
     {
         float width;
@@ -569,6 +580,7 @@ using System;
 
 namespace Excercises
 {
+
     class FrequencyIS
     {
         static void Main(string[] args)
@@ -706,10 +718,11 @@ namespace SumofDiagonals
         }
     }
 }
+
  OUTPUT:<br>
  ![image](https://user-images.githubusercontent.com/97940468/156515631-c10ca9c0-a0a1-42f2-9eca-dcd2e4cc149c.png)
 <br>
-![image](https://user-images.githubusercontent.com/97940468/156515757-9f031577-1f50-4482-857e-840579fd75de.png)
+![image](https://user-images.githubusercontent.com/97940468/156516425-8b3e22b2-0724-41a8-bad7-2cb17e20eba0.png)
  <br>
  18. C# program to create a File, check the Existence of a File and Read the Contents of the File.
  
@@ -718,6 +731,7 @@ using System.IO;
 
 namespace Exercises
 {
+
     class FileRead
     {
         public static void Main()
@@ -804,6 +818,7 @@ using System.IO;
 
 namespace Exercises
 {
+
     class FileComparison
     {
         static void Main()
@@ -853,6 +868,7 @@ using System;
 
 namespace Exercises
 {
+
     class Fraction : IComparable
     {
         int z, n;
