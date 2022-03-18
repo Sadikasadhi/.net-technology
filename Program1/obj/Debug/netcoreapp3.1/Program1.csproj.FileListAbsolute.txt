@@ -1,0 +1,15 @@
+D:\Sadika.net\Program1\bin\Debug\netcoreapp3.1\Program1.exe
+D:\Sadika.net\Program1\bin\Debug\netcoreapp3.1\Program1.deps.json
+D:\Sadika.net\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.json
+D:\Sadika.net\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.dev.json
+D:\Sadika.net\Program1\bin\Debug\netcoreapp3.1\Program1.dll
+D:\Sadika.net\Program1\bin\Debug\netcoreapp3.1\Program1.pdb
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.csprojAssemblyReference.cache
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.Form1.resources
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.csproj.GenerateResource.cache
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfoInputs.cache
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfo.cs
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.csproj.CoreCompileInputs.cache
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.dll
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.pdb
+D:\Sadika.net\Program1\obj\Debug\netcoreapp3.1\Program1.genruntimeconfig.cache
