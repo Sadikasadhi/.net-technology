@@ -1224,9 +1224,57 @@ namespace program4
 
     }
 }
+  OUTPUT:<br>
+  ![image](https://user-images.githubusercontent.com/97940468/158955436-1c18f312-13a8-49be-b9d5-a3784ecabfcc.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/158955706-289e4369-69bf-44eb-8ba1-1f8ef5dec44d.png)
   
   <br>
 27. Develop a winform application to create flat clock.
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace program5
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            System.Timers.Timer timer = new System.Timers.Timer();
+            timer.Interval = 100;
+            timer.Elapsed += Timer_Elapsed;
+            timer.Start();
+        }
+
+        private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
+        {
+            circularProgressBar1.Invoke((MethodInvoker)delegate
+            {
+                circularProgressBar1.Text = DateTime.Now.ToString("hh:mm::ss");
+                circularProgressBar1.SubscriptText = DateTime.Now.ToString("tt");
+
+            });
+        }
+    }
+}
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/158956123-26bf71fa-0128-458d-b5bd-ba97583d2e87.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/158956631-3f38ae8e-8150-49d9-a520-9904a2939379.png)
+<br>
 
 
 
