@@ -1121,6 +1121,70 @@ OUTPUT:<br>
 <br>
 25. C# program to perform Reversal, Padding and Trimming operations on string.
 
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace program3
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnrev_Click(object sender, EventArgs e)
+        {
+            string inputString, revstr = "";
+            int Length;
+            inputString = txtInput.Text;
+            Length = inputString.Length - 1;
+            while(Length>=0)
+            {
+                revstr = revstr + inputString[Length];
+                Length--;
+            }
+            MessageBox.Show("Reverse String Is:" + revstr, "Result");
+        }
+
+        private void btntrim_Click(object sender, EventArgs e)
+        {
+            string inputString;
+            inputString = txtInput.Text;
+            MessageBox.Show("The String After Trimming:" +inputString.Trim(), "Result");
+        }
+
+        private void btnpad_Click(object sender, EventArgs e)
+        {
+            string inputString;
+            inputString = txtInput.Text;
+            inputString = inputString.PadLeft(10, '*');
+            inputString = inputString.PadRight(15, '*');
+            MessageBox.Show("The String After Paddingg:" + inputString, "Result");
+        }
+    }
+}
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/158953700-ceec3471-d49e-4887-9743-a8f9b577cbad.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/158954446-f4bab2b2-760c-4dfb-880e-47d1683f8cec.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/158954652-0cee0826-84ad-4615-b519-ec16e2debb72.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/158954862-a3dfc3b4-071e-480f-a239-645b8afbd6e2.png)
+<br>
+
+26. C# program to create a progress Bar Control.
+
+
 
 
 
