@@ -1034,6 +1034,93 @@ public class Age
  OUTPUT:<br>
  ![image](https://user-images.githubusercontent.com/97940468/156514654-4478d3c4-51d0-4c6f-8f5f-7958963316d0.png)
  <br>
+23. C# program to convert Digits to words.
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Program1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = NumtoWord(long.Parse(textBox1.Text));
+        }
+        public string NumtoWord(long number)
+        {
+            string word = "";
+            if(number==0)
+            {
+                return "zero";
+            }
+            if (number< 0)
+            {
+                return "Minus"+Math.Abs(number);
+            }
+            if (number /10000000> 0)
+            {
+                word+=NumtoWord(number/10000000)+"crore";
+                number %= 10000000;
+            }
+            if (number / 100000 > 0)
+            {
+                word += NumtoWord(number / 100000) + "Lacs";
+                number %= 100000;
+            }
+            if (number / 1000 > 0)
+            {
+                word += NumtoWord(number / 1000) + "Thousand";
+                number %= 1000;
+            }
+            if (number / 100 > 0)
+            {
+                word += NumtoWord(number / 100) + "Hundred";
+                number %= 100;
+            }
+            if(number>0)
+            {
+                string[] units = new string[] { "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Ninteen" };
+                string[] Tens = new string[] { "Zero", "Ten", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" };
+                if(number<20)
+                {
+                    word += units[number];
+                }
+                else
+                {
+                    word += Tens[number / 10];
+                    if(number%10>0)
+                    {
+                        word += units[number % 10];
+                    }
+                }
+            }
+            return word;
+        }
+    }
+}
+
+OUTPUT:<br>
+![image](https://user-images.githubusercontent.com/97940468/158951983-675cbbd2-78d7-442d-95e2-68b94dca3563.png)
+<br>
+![image](https://user-images.githubusercontent.com/97940468/158952218-6239cff3-565e-4541-83be-40a50b834229.png)
+<br>
+
+24.
+<br>
+25. C# program to perform Reversal, Padding and Trimming operations on string.
+
 
 
 
