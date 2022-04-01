@@ -1,0 +1,10 @@
+D:\Sadika.net\program11\obj\Debug\program11.csprojAssemblyReference.cache
+D:\Sadika.net\program11\obj\Debug\program11.Form1.resources
+D:\Sadika.net\program11\obj\Debug\program11.Properties.Resources.resources
+D:\Sadika.net\program11\obj\Debug\program11.csproj.GenerateResource.cache
+D:\Sadika.net\program11\obj\Debug\program11.csproj.CoreCompileInputs.cache
+D:\Sadika.net\program11\bin\Debug\program11.exe.config
+D:\Sadika.net\program11\bin\Debug\program11.exe
+D:\Sadika.net\program11\bin\Debug\program11.pdb
+D:\Sadika.net\program11\obj\Debug\program11.exe
+D:\Sadika.net\program11\obj\Debug\program11.pdb
